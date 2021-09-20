@@ -18,6 +18,6 @@ Website: http://hano.cf/
 
 Watch it on YouTube 
 
-[Smart Parking V2]()
+[Smart Parking V2](https://youtu.be/kNI6wooCwZs)
 
-[Smart Parking V1](https://youtu.be/d56tqMDrdRA)
+[Smart Parking V1](https://youtu.be/974foPUJ5hY)
